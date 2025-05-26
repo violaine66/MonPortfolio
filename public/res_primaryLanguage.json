@@ -1,48 +1,48 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Salut !",
+      "description": "👋 Je suis Lola — une développeuse web full stack passionnée, avec une forte expertise en front-end et de solides compétences en back-end. Je conçois et développe des applications web modernes avec HTML, CSS/Sass, JavaScript, React, MongoDB, Node.js et Express. J'aime transformer des idées en projets concrets, fonctionnels et accessibles. Merci de visiter mon portfolio — bonne navigation ! 💻✨",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Mon vieux grimoire",
+        "startDate": "2025",
+        "description": "Application de gestion de livres avec authentification, notation et gestion d'images. Ce projet full stack a été réalisé avec MongoDB, Node.js, Express, Multer et JWT. Il m’a permis de maîtriser l’ensemble de la chaîne de traitement d’une API sécurisée.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p1.webp",
+          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p2.webp"
         ],
-        "url": "",
+        "url": "https://github.com/Lola-Chevallier/mon-vieux-grimoire",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-express-original",
+            "name": "Express"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Kasa - Plateforme de location immobilière",
+        "startDate": "2025",
+        "description": "Application web responsive construite avec React et Vite pour une plateforme de location immobilière. Elle comprend un routage dynamique avec React Router, une approche mobile-first, ainsi que des composants comme un carrousel et des accordéons. Ce projet met en valeur une architecture basée sur les composants, la gestion des props et la redirection vers une page d’erreur.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/kasa/kasa-p1.webp",
+          "images/portfolio/kasa/kasa-p2.webp"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Lola-Chevallier/kasa",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,67 +51,76 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Portfolio d’architecte - Sophie Bluel",
+        "startDate": "2025",
+        "description": "Application web dynamique en une seule page, développée en JavaScript natif. L’application récupère les projets depuis une API REST et permet aux utilisateurs authentifiés de supprimer et d’ajouter des projets via un système de modale. Ce projet met en avant la manipulation du DOM, les fonctions asynchrones, l’intégration d’API et la gestion d’une interface modale.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/sophie-bluel/sophie-bluel-p1.webp",
+          "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Lola-Chevallier/portfolio-architecte-sophie-bluel",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Openclassrooms",
+        "title": "Développeuse web en formation",
+        "years": "12.2024 - 06.2025",
         "mainTech": [
-          "Angular 8/9/10"
+          "React", "Node.js", "MongoDB"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS/Sass",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Express",
+          "JWT",
+          "Multer",
+          "React",
+          "Gestion de projet",
+          "API REST"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Projets personnels",
+        "title": "Développur full stack",
+        "years": "12.2024 - Aujourd'hui",
         "mainTech": [
-          "Angular 7/8"
+          "React, Sass"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "Responsive design",
+          "Multilingue",
+          "Versioning Git",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Accessibilité",
+          "SEO"
         ]
       }
     ]

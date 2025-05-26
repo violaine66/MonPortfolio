@@ -124,6 +124,8 @@ header h1 {
 .foto img {
 	display: block;
 	width: 100%;
+	object-fit: cover;
+	height: 300px;
 }
 
 .foto div {
@@ -141,6 +143,8 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+	height: 500px; 
+	width: 100%;
 }
 
 .foto div:after {
