@@ -9,6 +9,7 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
 class App extends Component {
+  basePath = process.env.PUBLIC_URL || "";
 
   constructor(props) {
     super();
@@ -52,7 +53,7 @@ class App extends Component {
 
   loadResumeFromPath(path) {
     $.ajax({
-      url: path,
+      url: `${this.basePath}/${path}`,
       dataType: "json",
       cache: false,
       success: function (data) {
@@ -66,7 +67,7 @@ class App extends Component {
 
   loadSharedData() {
     $.ajax({
-      url: `portfolio_shared_data.json`,
+      url: `${this.basePath}/portfolio_shared_data.json`,
       dataType: "json",
       cache: false,
       success: function (data) {
