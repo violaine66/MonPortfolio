@@ -1,16 +1,16 @@
 {
     "basic_info": {
       "name": "Violaine Soulas",
-      "titles": [ "Développeuse full stack junior | React / Node.js / MongoDB | Exploratrice du web moderne" ],
+      "titles": [ "Développeuse full stack junior | Ruby on Rails/ Exploratrice du web moderne" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/Lola-Chevallier",
+          "url": "https://github.com/violaine66",
           "class": "fab fa-github"
         },
         {
           "name": "linkedin",
-          "url": "http://www.linkedin.com/in/lola-chevallier-935710224",
+          "url": "www.linkedin.com/in/violaine-soulas",
           "class": "fab fa-linkedin"
         }
       ],
