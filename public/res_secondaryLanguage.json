@@ -11,14 +11,13 @@
     },
     "projects": [
       {
-        "title": "My old grimoire",
+        "title": "Moodie",
         "startDate": "2025",
-        "description": "Book management application with authentication, ratings, and image handling. This full stack project was built with MongoDB, Node.js, Express, Multer, and JWT. It allowed me to master the entire processing chain of a secure API.",
+        "description": "Application de santé mentale destinée aux jeunes",
         "images": [
-          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p1.webp",
-          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p2.webp"
+          "./public/images/portfolio/moodie/moodie.png"
         ],
-        "url": "https://github.com/Lola-Chevallier/mon-vieux-grimoire",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-nodejs-plain",

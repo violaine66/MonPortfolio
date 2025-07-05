@@ -11,18 +11,17 @@
     },
     "projects": [
       {
-        "title": "Mon vieux grimoire",
+        "title": "Moodie",
         "startDate": "2025",
-        "description": "Application de gestion de livres avec authentification, notation et gestion d'images. Ce projet full stack a été réalisé avec MongoDB, Node.js, Express, Multer et JWT. Il m’a permis de maîtriser l’ensemble de la chaîne de traitement d’une API sécurisée.",
+        "description": "Application de santé mentale destinée aux jeunes",
         "images": [
-          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p1.webp",
-          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p2.webp"
+          "images/moodie.png"
         ],
-        "url": "https://github.com/Lola-Chevallier/mon-vieux-grimoire",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.js"
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
           },
           {
             "class": "devicon-express-original",
@@ -89,11 +88,11 @@
     ],
     "experience": [
       {
-        "company": "Openclassrooms",
+        "company": "Le Wagon",
         "title": "Développeuse web en formation",
-        "years": "12.2024 - 06.2025",
+        "years": "Octobre 2024 - Avril 2025",
         "mainTech": [
-          "React", "Node.js", "MongoDB"
+          "Ruby", "Node.js", "MongoDB"
         ],
         "technologies": [
           "HTML",
@@ -108,9 +107,9 @@
         ]
       },
       {
-        "company": "Projets personnels",
-        "title": "Développur full stack",
-        "years": "12.2024 - Aujourd'hui",
+        "company": "Education Nationale",
+        "title": "Psychologue",
+        "years": "Septembre 2005 - Juin 2025",
         "mainTech": [
           "React, Sass"
         ],
@@ -124,4 +123,5 @@
         ]
       }
     ]
+
   }

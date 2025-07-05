@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Violaine Soulas",
-      "titles": [ "Développeuse full stack junior | Ruby on Rails/ Exploratrice du web moderne" ],
+      "titles": [ "Développeuse full stack junior | Ruby on Rails" ],
       "social": [
         {
           "name": "github",
@@ -34,23 +34,23 @@
           "level": "85"
         },
         {
-          "name": "React",
-          "class": "devicon-react-original",
+          "name": "Figma",
+          "class": "devicon-figma-plain",
           "level": "80"
         },
         {
-          "name": "Node.js",
-          "class": "devicon-nodejs-plain",
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
           "level": "75"
         },
         {
-          "name": "Express",
-          "class": "devicon-express-original",
+          "name": "Rails",
+          "class": "devicon-rails-plain",
           "level": "70"
         },
         {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
+          "name": "PostgreSQL",
+          "class": "devicon-rails-plain",
           "level": "70"
         },
         {
@@ -60,4 +60,6 @@
         }
       ]
     }
+
+
   }
