@@ -92,16 +92,16 @@
         "title": "Développeuse web en formation",
         "years": "Octobre 2024 - Avril 2025",
         "mainTech": [
-          "Ruby", "Node.js", "MongoDB"
+          "Ruby", "HTML", "SCSS"
         ],
         "technologies": [
           "HTML",
-          "CSS/Sass",
+          "CSS/SCSS",
           "JavaScript",
-          "Express",
-          "JWT",
-          "Multer",
-          "React",
+          "PostgreSQL",
+          "Git/GitHub",
+          "Figma",
+          "Ruby/Rails",
           "Gestion de projet",
           "API REST"
         ]

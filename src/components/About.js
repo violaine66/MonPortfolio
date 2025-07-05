@@ -1,8 +1,11 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import css3Icon from "@iconify/icons-logos/css-3";
-import reactIcon from "@iconify/icons-logos/react";
-import nodejsIcon from "@iconify/icons-logos/nodejs-icon";
+import html5Icon from "@iconify/icons-logos/html-5";
+import rubyIcon from "@iconify/icons-logos/ruby";
+import railsIcon from "@iconify/icons-logos/rails";
+import javascriptIcon from "@iconify/icons-logos/javascript";
+
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
@@ -30,16 +33,24 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
+                    icon={html5Icon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                   <Icon
                     icon={css3Icon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
-                  <Icon
-                    icon={reactIcon}
+                   <Icon
+                    icon={javascriptIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={nodejsIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    icon={rubyIcon}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={railsIcon}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
               </div>
