@@ -42,7 +42,7 @@ class About extends Component {
                   />
                    <Icon
                     icon={javascriptIcon}
-                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "00%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                     icon={rubyIcon}
@@ -59,25 +59,7 @@ class About extends Component {
             <div className="col-md-8 center">
               <div className="col-md-10">
                 <div className="card">
-                  <div className="card-header">
-                    <span
-                      className="iconify"
-                      data-icon="emojione:red-circle"
-                      data-inline="false"
-                    ></span>{" "}
-                    &nbsp;{" "}
-                    <span
-                      className="iconify"
-                      data-icon="twemoji:yellow-circle"
-                      data-inline="false"
-                    ></span>{" "}
-                    &nbsp;{" "}
-                    <span
-                      className="iconify"
-                      data-icon="twemoji:green-circle"
-                      data-inline="false"
-                    ></span>
-                  </div>
+                  
                   <div
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
