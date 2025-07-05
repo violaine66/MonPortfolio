@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Salut !",
-      "description": "👋 Je suis Violaine — une développeuse web full stack passionnée, avec une forte expertise en front-end et de solides compétences en back-end. Je conçois et développe des applications web modernes avec HTML, CSS/Sass, JavaScript, React, MongoDB, Node.js et Express. J'aime transformer des idées en projets concrets, fonctionnels et accessibles. Merci de visiter mon portfolio — bonne navigation ! 💻✨",
+      "description_header": "",
+      "description": " Après 18 ans à accompagner des jeunes et leurs familles en tant que psychologue de l’Éducation Nationale, j’ai choisi de me reconvertir dans le développement web pour créer des outils utiles, accessibles et porteurs de sens. Grâce à mon expérience, j’apporte une écoute attentive, une compréhension fine des besoins et une vraie sensibilité humaine à chaque projet. Aujourd’hui, je souhaite mettre ces compétences au service de projets innovants, tournés vers l’éducation, la santé mentale et l’impact social.",
       "section_name": {
         "about": "A propos de moi",
         "projects": "Projets",
