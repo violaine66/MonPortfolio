@@ -103,7 +103,8 @@
           "Figma",
           "Ruby/Rails",
           "Gestion de projet",
-          "API REST"
+          "API REST",
+          "Versioning Git"
         ]
       },
       {
@@ -111,15 +112,15 @@
         "title": "Psychologue",
         "years": "Septembre 2005 - Juin 2025",
         "mainTech": [
-          "React, Sass"
+          "Accompagnement et conseil", "Compétences relationnelles"
         ],
         "technologies": [
-          "Responsive design",
-          "Multilingue",
-          "Versioning Git",
-          "JavaScript",
-          "Accessibilité",
-          "SEO"
+          "Travail en équipe et management",
+          "Empathie",
+          "Analyse et résolution de problème",
+          "Autonomie et prise d'initiative",
+          "Prise de parole en piblic",
+          "Adaptabilité"
         ]
       }
     ]
