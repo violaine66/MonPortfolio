@@ -42,7 +42,7 @@ class About extends Component {
                   />
                    <Icon
                     icon={javascriptIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                     icon={rubyIcon}
