@@ -34,7 +34,7 @@
         ]
       },
       {
-        "title": "Kasa - Plateforme de location immobilière",
+        "title": "Family Loc'",
         "startDate": "2025",
         "description": "Application web responsive construite avec React et Vite pour une plateforme de location immobilière. Elle comprend un routage dynamique avec React Router, une approche mobile-first, ainsi que des composants comme un carrousel et des accordéons. Ce projet met en valeur une architecture basée sur les composants, la gestion des props et la redirection vers une page d’erreur.",
         "images": [
@@ -62,7 +62,31 @@
         ]
       },
       {
-        "title": "Portfolio d’architecte - Sophie Bluel",
+        "title": "Coach Lead",
+        "startDate": "2025",
+        "description": "Application web dynamique en une seule page, développée en JavaScript natif. L’application récupère les projets depuis une API REST et permet aux utilisateurs authentifiés de supprimer et d’ajouter des projets via un système de modale. Ce projet met en avant la manipulation du DOM, les fonctions asynchrones, l’intégration d’API et la gestion d’une interface modale.",
+        "images": [
+          "images/portfolio/sophie-bluel/sophie-bluel-p3.webp",
+          "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/portfolio-architecte-sophie-bluel",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Auto Entrepreneur.pro",
         "startDate": "2025",
         "description": "Application web dynamique en une seule page, développée en JavaScript natif. L’application récupère les projets depuis une API REST et permet aux utilisateurs authentifiés de supprimer et d’ajouter des projets via un système de modale. Ce projet met en avant la manipulation du DOM, les fonctions asynchrones, l’intégration d’API et la gestion d’une interface modale.",
         "images": [
