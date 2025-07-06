@@ -16,7 +16,10 @@
         "description": "Application de santé mentale destinée aux jeunes.Moodie est un compagnon numérique interactif conçu pour les adolescents, visant à déstigmatiser la santé mentale. L’application propose des ressources pédagogiques, un suivi personnalisé et des outils concrets pour aider les jeunes à prendre soin de leur bien-être au quotidien.",
         "images": [
           "/images/portfolio/moodie/moodie.png",
-          "/images/portfolio/moodie/moodie2.png"
+          "/images/portfolio/moodie/moodie1.png",
+          "/images/portfolio/moodie/moodie2.png",
+          "/images/portfolio/moodie/moodie3.png",
+          "/images/portfolio/moodie/moodie4.png"
         ],
 
         "technologies": [
