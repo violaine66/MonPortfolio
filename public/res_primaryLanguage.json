@@ -21,18 +21,22 @@
           "/images/portfolio/moodie/moodie4.png"
         ],
 
-        "technologies": [
+         "technologies": [
           {
-            "class": "devicon-ruby-plain",
-            "name": "Ruby"
+            "class": "devicon-rails-plain",
+            "name": "Rails"
           },
           {
-            "class": "devicon-express-original",
-            "name": "Express"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -48,37 +52,10 @@
           "/images/portfolio/familyloc/familyloc6.png"
 
         ],
-        "technologies": [
+         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-sass-original",
-            "name": "Sass"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          }
-        ]
-      },
-      {
-        "title": "Coach Lead",
-        "startDate": "2025",
-        "description": "J’ai développé CoachLead pour un entraîneur d’équipe semi-professionnelle (SNAF). Cette application permet de planifier et suivre les entraînements, d’enregistrer les évaluations des joueurs avant et après chaque séance, et d’exploiter des statistiques détaillées sur les performances en match, afin d’optimiser la préparation et le suivi individuel.",
-        "images": [
-          "/images/portfolio/coachlead/coachlead.png"
-        ],
-
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-rails-plain",
+            "name": "Rails"
           },
           {
             "class": "devicon-html5-plain",
@@ -87,6 +64,40 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Coach Lead",
+        "startDate": "2025",
+        "description": "J’ai développé CoachLead pour un entraîneur d’équipe semi-professionnelle (SNAF). Cette application permet de planifier et suivre les entraînements, d’enregistrer les évaluations des joueurs avant et après chaque séance, et d’exploiter des statistiques détaillées sur les performances en match, afin d’optimiser la préparation et le suivi individuel.",
+        "images": [
+          "/images/portfolio/coachlead/coachlead.png",
+          "/images/portfolio/coachlead/coachlead2.png",
+          "/images/portfolio/coachlead/coachlead3.png",
+          "/images/portfolio/coachlead/coachlead4.png"
+        ],
+
+        "technologies": [
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -100,13 +111,12 @@
           "/images/portfolio/autoentrepreneur/autoentrepreneur3.png",
            "/images/portfolio/autoentrepreneur/autoentrepreneur4.png"
 
-
         ],
 
-        "technologies": [
+         "technologies": [
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-rails-plain",
+            "name": "Rails"
           },
           {
             "class": "devicon-html5-plain",
@@ -115,6 +125,10 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -124,16 +138,12 @@
         "description": "J'ai reproduit le site vitrine d'une amie (spécialisée en mise en beauté pour mariages et événements) initialement créé sur Wix, afin qu'elle dispose d'une version codée sur mesure et autonome, facilement modifiable et réutilisable à l'avenir. J'ai refait intégralement le site vitrine d'une professionnelle de la mise en beauté (initialement sur Wix), en code pur (HTML, CSS, JavaScript). Cette nouvelle version lui offre plus de liberté pour personnaliser son contenu et un accès direct au code source pour d'éventuelles évolutions futures. L'objectif était de lui fournir une version 100% codée (HTML/CSS/JS), lui permettant de conserver la maîtrise complète de son site et de le faire évoluer sans dépendre d'un éditeur externe",
         "images": [
           "/images/portfolio/coifmaq/coifmaq.png",
-          "/images/portfolio/coifmaq/coifmaq2.png"
-
-
+          "/images/portfolio/coifmaq/coifmaq2.png",
+          "/images/portfolio/coifmaq/coifmaq3.png",
+          "/images/portfolio/coifmaq/coifmaq5.png"
         ],
 
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
+         "technologies": [
           {
             "class": "devicon-html5-plain",
             "name": "HTML"
