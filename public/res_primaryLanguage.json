@@ -108,7 +108,32 @@
             "name": "CSS"
           }
         ]
+      },
+      {
+        "title": "Coiff/Maq",
+        "startDate": "2025",
+        "description": "J'ai reproduit le site vitrine d'une amie (spécialisée en mise en beauté pour mariages et événements) initialement créé sur Wix, afin qu'elle dispose d'une version codée sur mesure et autonome, facilement modifiable et réutilisable à l'avenir. J'ai refait intégralement le site vitrine d'une professionnelle de la mise en beauté (initialement sur Wix), en code pur (HTML, CSS, JavaScript). Cette nouvelle version lui offre plus de liberté pour personnaliser son contenu et un accès direct au code source pour d'éventuelles évolutions futures. L'objectif était de lui fournir une version 100% codée (HTML/CSS/JS), lui permettant de conserver la maîtrise complète de son site et de le faire évoluer sans dépendre d'un éditeur externe",
+        "images": [
+          "images/portfolio/sophie-bluel/sophie-bluel-p3.webp",
+          "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/portfolio-architecte-sophie-bluel",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
       }
+
     ],
     "experience": [
       {
