@@ -38,7 +38,7 @@
         "startDate": "2025",
         "description": "J'ai développé FamilyLoc, une application inspirée d’Airbnb, pour permettre à ma famille d’organiser et de gérer facilement les réservations de nos logements de vacances. Cette plateforme interne facilite la coordination et optimise l’occupation des biens familiaux.",
         "images": [
-          "images/portfolio/moodie.png"
+          "/images/portfolio/moodie/familyloc2.png"
         ],
         "technologies": [
           {
@@ -64,7 +64,7 @@
         "startDate": "2025",
         "description": "J’ai développé CoachLead pour un entraîneur d’équipe semi-professionnelle (SNAF). Cette application permet de planifier et suivre les entraînements, d’enregistrer les évaluations des joueurs avant et après chaque séance, et d’exploiter des statistiques détaillées sur les performances en match, afin d’optimiser la préparation et le suivi individuel.",
         "images": [
-        "images/portfolio/moodie.png"
+          "/images/portfolio/moodie/coachlead.png"
         ],
 
         "technologies": [
@@ -87,7 +87,7 @@
         "startDate": "2025",
         "description": "AutoEntrepreneur Pro est une application personnalisée conçue pour mon père, ingénieur en bâtiment et auto-entrepreneur. Elle centralise le suivi des dossiers clients, automatise les calculs techniques des poutres (béton et bois), et simplifie la gestion quotidienne de son activité.",
         "images": [
-          "images/portfolio/moodie.png"
+          "/images/portfolio/moodie/autoentrepreneurpro.png"
         ],
 
         "technologies": [
@@ -110,7 +110,7 @@
         "startDate": "2025",
         "description": "J'ai reproduit le site vitrine d'une amie (spécialisée en mise en beauté pour mariages et événements) initialement créé sur Wix, afin qu'elle dispose d'une version codée sur mesure et autonome, facilement modifiable et réutilisable à l'avenir. J'ai refait intégralement le site vitrine d'une professionnelle de la mise en beauté (initialement sur Wix), en code pur (HTML, CSS, JavaScript). Cette nouvelle version lui offre plus de liberté pour personnaliser son contenu et un accès direct au code source pour d'éventuelles évolutions futures. L'objectif était de lui fournir une version 100% codée (HTML/CSS/JS), lui permettant de conserver la maîtrise complète de son site et de le faire évoluer sans dépendre d'un éditeur externe",
         "images": [
-          "images/portfolio/moodie.png"
+          "/images/portfolio/moodie/coifmaq.png"
         ],
 
         "technologies": [
