@@ -16,6 +16,10 @@
       ],
       "image": "myProfile.JPG"
     },
+      "engines": {
+          "node": "18.x"
+        },
+
     "skills": {
       "icons": [
         {
