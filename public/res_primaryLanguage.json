@@ -13,7 +13,7 @@
       {
         "title": "Moodie",
         "startDate": "2025",
-        "description": "Application de santé mentale destinée aux jeunes",
+        "description": "Application de santé mentale destinée aux jeunes.Moodie est un compagnon numérique interactif conçu pour les adolescents, visant à déstigmatiser la santé mentale. L’application propose des ressources pédagogiques, un suivi personnalisé et des outils concrets pour aider les jeunes à prendre soin de leur bien-être au quotidien.",
         "images": [
           "images/moodie.png"
         ],
@@ -36,7 +36,7 @@
       {
         "title": "Family Loc'",
         "startDate": "2025",
-        "description": "Application web responsive construite avec React et Vite pour une plateforme de location immobilière. Elle comprend un routage dynamique avec React Router, une approche mobile-first, ainsi que des composants comme un carrousel et des accordéons. Ce projet met en valeur une architecture basée sur les composants, la gestion des props et la redirection vers une page d’erreur.",
+        "description": "J'ai développé FamilyLoc, une application inspirée d’Airbnb, pour permettre à ma famille d’organiser et de gérer facilement les réservations de nos logements de vacances. Cette plateforme interne facilite la coordination et optimise l’occupation des biens familiaux.",
         "images": [
           "images/portfolio/kasa/kasa-p1.webp",
           "images/portfolio/kasa/kasa-p2.webp"
@@ -64,7 +64,7 @@
       {
         "title": "Coach Lead",
         "startDate": "2025",
-        "description": "Application web dynamique en une seule page, développée en JavaScript natif. L’application récupère les projets depuis une API REST et permet aux utilisateurs authentifiés de supprimer et d’ajouter des projets via un système de modale. Ce projet met en avant la manipulation du DOM, les fonctions asynchrones, l’intégration d’API et la gestion d’une interface modale.",
+        "description": "J’ai développé CoachLead pour un entraîneur d’équipe semi-professionnelle (SNAF). Cette application permet de planifier et suivre les entraînements, d’enregistrer les évaluations des joueurs avant et après chaque séance, et d’exploiter des statistiques détaillées sur les performances en match, afin d’optimiser la préparation et le suivi individuel.",
         "images": [
           "images/portfolio/sophie-bluel/sophie-bluel-p3.webp",
           "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
@@ -88,7 +88,7 @@
       {
         "title": "Auto Entrepreneur.pro",
         "startDate": "2025",
-        "description": "Application web dynamique en une seule page, développée en JavaScript natif. L’application récupère les projets depuis une API REST et permet aux utilisateurs authentifiés de supprimer et d’ajouter des projets via un système de modale. Ce projet met en avant la manipulation du DOM, les fonctions asynchrones, l’intégration d’API et la gestion d’une interface modale.",
+        "description": "AutoEntrepreneur Pro est une application personnalisée conçue pour mon père, ingénieur en bâtiment et auto-entrepreneur. Elle centralise le suivi des dossiers clients, automatise les calculs techniques des poutres (béton et bois), et simplifie la gestion quotidienne de son activité.",
         "images": [
           "images/portfolio/sophie-bluel/sophie-bluel-p3.webp",
           "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
