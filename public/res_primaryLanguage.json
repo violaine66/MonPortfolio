@@ -13,11 +13,10 @@
       {
         "title": "Moodie",
         "startDate": "2025",
-        "description": "Application de santé mentale destinée aux jeunes.Moodie est un compagnon numérique interactif conçu pour les adolescents, visant à déstigmatiser la santé mentale. L’application propose des ressources pédagogiques, un suivi personnalisé et des outils concrets pour aider les jeunes à prendre soin de leur bien-être au quotidien.",
+        "description": "Moodie est un compagnon numérique interactif conçu pour les adolescents, visant à déstigmatiser la santé mentale. L’application propose des ressources pédagogiques, un suivi personnalisé et des outils concrets pour aider les jeunes à prendre soin de leur bien-être au quotidien.",
         "images": [
           "/images/portfolio/moodie/moodie.png",
           "/images/portfolio/moodie/moodie1.png",
-          "/images/portfolio/moodie/moodie2.png",
           "/images/portfolio/moodie/moodie3.png",
           "/images/portfolio/moodie/moodie4.png"
         ],
@@ -43,7 +42,11 @@
         "description": "J'ai développé FamilyLoc, une application inspirée d’Airbnb, pour permettre à ma famille d’organiser et de gérer facilement les réservations de nos logements de vacances. Cette plateforme interne facilite la coordination et optimise l’occupation des biens familiaux.",
         "images": [
           "/images/portfolio/familyloc/familyloc2.png",
-          "/images/portfolio/familyloc/FamilyLoc.png"
+          "/images/portfolio/familyloc/FamilyLoc.png",
+          "/images/portfolio/familyloc/familyloc4.png",
+          "/images/portfolio/familyloc/familyloc5.png",
+          "/images/portfolio/familyloc/familyloc6.png"
+
         ],
         "technologies": [
           {
@@ -92,7 +95,11 @@
         "startDate": "2025",
         "description": "AutoEntrepreneur Pro est une application personnalisée conçue pour mon père, ingénieur en bâtiment et auto-entrepreneur. Elle centralise le suivi des dossiers clients, automatise les calculs techniques des poutres (béton et bois), et simplifie la gestion quotidienne de son activité.",
         "images": [
-          "/images/portfolio/autoentrepreneur/autoentrepreneurpro.png"
+          "/images/portfolio/autoentrepreneur/autoentrepreneurpro.png",
+          "/images/portfolio/autoentrepreneur/autoentrepreneur2.png",
+          "/images/portfolio/autoentrepreneur/autoentrepreneur3.png",
+           "/images/portfolio/autoentrepreneur/autoentrepreneur4.png"
+
 
         ],
 
