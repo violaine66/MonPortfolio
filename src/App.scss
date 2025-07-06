@@ -57,7 +57,8 @@ header {
   align-items: center;
   padding-top: 0px !important;
   padding-bottom: 50px !important;
-  font-size: 48px;
+  font-size: 16px !important;
+  font-family: "Quicksand", sans-serif!important;
 }
 on {
 	font-size: 50px;
@@ -117,6 +118,7 @@ header h1 {
 .styles_typicalWrapper__1_Uvh::after {
 	cursor: none !important;
 	display: none;
+  font-size: 32px;
 }
 
 #about {
@@ -124,13 +126,18 @@ header h1 {
 	overflow: hidden;
 }
 
-#about h1 {
+#about h1, #portfolio h1, #resume h1{
 	padding-top: 5%;
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 3px;
+	letter-spacing: 2px;
 	color: black;
 	text-align: center;
+  font-size: 24px;
+}
+
+#skills h1 {
+  font-size:24px;
 }
 
 .foto img {
@@ -184,6 +191,7 @@ header h1 {
 	letter-spacing: 3px;
 	color: black;
 	text-align: center;
+
 }
 
 .polaroid img {
@@ -437,6 +445,7 @@ footer a:visited {
 footer a:hover,
 footer a:focus {
 	color: #fff;
+
 }
 
 .social-links {
