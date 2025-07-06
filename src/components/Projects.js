@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ProjectDetailsModal from "./ProjectDetailsModal";
 
+
 class Projects extends Component {
   constructor(props) {
     super(props);
@@ -29,11 +30,12 @@ class Projects extends Component {
               <div className="foto" onClick={() => detailsModalShow(projects)}>
                 <div>
                   <img
-                    src={projects.images[0]}
-                    alt="projectImages"
-                    height="230"
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
+                    src={process.env.PUBLIC_URL + "/" + projects.images[0]}
+                    alt={projects.title}
                   />
+
+
+
                   <span className="project-date">{projects.startDate}</span>
                   <br />
                   <p className="project-title-settings mt-3">

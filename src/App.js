@@ -8,6 +8,12 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
+
+
+
+
+
+
 class App extends Component {
   basePath = process.env.PUBLIC_URL || "";
 
@@ -19,6 +25,8 @@ class App extends Component {
       sharedData: {},
     };
   }
+
+
 
   // Tu peux supprimer cette méthode si tu ne changes plus la langue
   // applyPickedLanguage(pickedLanguage, oppositeLangIconId) {
@@ -90,6 +98,7 @@ class App extends Component {
 
     return (
       <div>
+
         {sharedData.basic_info && <Header sharedData={sharedData.basic_info} />}
 
         {resumeData.basic_info && sharedData.basic_info && (
