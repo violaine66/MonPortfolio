@@ -14,7 +14,8 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.JPG"
+      "image": "myProfile.JPG",
+      "image2": "ordi-femme.png"
     },
       "engines": {
           "node": "18.x"
