@@ -468,3 +468,12 @@ footer a:focus {
 .awssld__content > img {
   background-color: #D3ECEE
 }
+
+@media only screen and (max-width: 670px) {
+
+  /* Add responsive styles here */
+  .react-switch {
+    margin: 50px !important;
+  }
+
+}

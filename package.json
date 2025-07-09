@@ -24,7 +24,7 @@
     "node": "18.x"
   },
 "scripts": {
-  "start":  "react-scripts start",
+  "start":  "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
   "build": "react-scripts build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
