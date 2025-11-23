@@ -102,6 +102,29 @@
         ]
       },
       {
+           "title": "Site de Psychologue en libéral",
+        "startDate": "2025",
+        "description": "Site vitrine réalisé pour mon cabinet libéral de praticienne Psychologue",
+        "images": [
+          "/images/portfolio/CabinetPsychologue/psy2.png",
+          "/images/portfolio/CabinetPsychologue/psy1.png",
+          "/images/portfolio/CabinetPsychologue/psy3.png",
+          "/images/portfolio/CabinetPsychologue/psy4.png"
+        ],
+
+         "technologies": [
+
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
         "title": "Auto Entrepreneur.pro",
         "startDate": "2025",
         "description": "AutoEntrepreneur Pro est une application personnalisée conçue pour mon père, ingénieur en bâtiment et auto-entrepreneur. Elle centralise le suivi des dossiers clients, automatise les calculs techniques des poutres (béton et bois), et simplifie la gestion quotidienne de son activité.",
